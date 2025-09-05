@@ -23,6 +23,8 @@ for generating household financial advice in Japanese.
 
 - Do not commit `token.env` (keep your API keys safe).
 - Output directory `advise/` will be created automatically if missing.
+- Example prompt files are under `prompt/sample/`.
+  Put your own prompt files under `edit_prompt/` when running the script.
 
 ## License
 Apache License 2.0
